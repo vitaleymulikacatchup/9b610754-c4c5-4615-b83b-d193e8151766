@@ -77,12 +77,12 @@ const nunito = Nunito({
 });
 
 export const metadata: Metadata = {
-  title: "Relace - AI Models Built for Coding Agents",
-  description: "Source control with out-of-the-box codebase retrieval, fast utility SLMs, and task-specific agents you can run on any repo.",
+  title: 'Test Title',
+  description: 'test description',
   keywords: "AI coding agents, code retrieval, machine learning models, developer tools, autonomous codegen",
   openGraph: {
-    title: "Relace - AI Models Built for Coding Agents",
-    description: "Source control with out-of-the-box codebase retrieval, fast utility SLMs, and task-specific agents you can run on any repo.",
+    title: 'Test Title',
+    description: 'test description',
     siteName: "Relace",
     images: [
       {
@@ -94,8 +94,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Relace - AI Models Built for Coding Agents",
-    description: "Source control with out-of-the-box codebase retrieval, fast utility SLMs, and task-specific agents you can run on any repo.",
+    title: 'Test Title',
+    description: 'test description',
     images: ["https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"]
   },
   robots: {
